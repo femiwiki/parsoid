@@ -1,5 +1,7 @@
 # Dockerized parsoid server [![Container Registry]][container registry link]
 
+:warning: This repository and its docker image will be archived, as MediaWiki TLS 1.35 and Parsoid/JS will be End-of-Life as of June 2021.
+
 A [Parsoid] Docker Image. This is originally created for [FemiWiki].
 
 ## Usage
